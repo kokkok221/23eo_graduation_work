@@ -107,7 +107,7 @@ void setup() {
     // ログ(SDCard)初期化
     initLogging();
     // WiFi
-    connectWiFi("YourSSID", "YourPassward");
+    connectWiFi("YourSSID", "YourPassword");
     // HTTP server
     setupServer();
 
