@@ -107,7 +107,7 @@ void setup() {
     // ログ(SDCard)初期化
     initLogging();
     // WiFi
-    connectWiFi("AQUOS sence6s", "ko9ko92213");
+    connectWiFi("YourSSID", "YourPassward");
     // HTTP server
     setupServer();
 
