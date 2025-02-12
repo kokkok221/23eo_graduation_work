@@ -7,6 +7,8 @@
 //display values
 extern int button_Param;
 extern int log_state;
+extern bool updateParamFlag;
+extern bool updateLogStateFlag;
 
 //mpu6886 values
 extern uint8_t configValue;
